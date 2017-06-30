@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a way to track changes to files in the repository with commits. This allows
+us to use git to track changes and revert to older version of a file.
