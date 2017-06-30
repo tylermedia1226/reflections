@@ -11,3 +11,8 @@ repository because it doesn't track the commits and it's not a working directory
 you don't run files from the staging area. It allows you to have multiple files in a 
 single commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area allows you to compare the changes (across files if necessary) before
+committing them. This allows you to review the changes and make sure there is one commit
+per logical change.
