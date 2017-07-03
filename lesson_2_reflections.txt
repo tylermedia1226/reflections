@@ -24,3 +24,15 @@ When you want to try or experiment with new features or if you want to create tw
 of a file. This will allow you to experiment and make a lot of changes know you can go 
 back to where you diverged from the original, master, file. 
 
+Q5) How do the diagrams help you visualize the branch structure?
+
+It allows you to visualize all the branches and keep track of where the commits and
+changes are occuring. This can be very helpful when multiple people are working on a 
+single project.
+
+Q6) What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+It allows you to take changes made in separate branches and combine them into a single
+branch with all commits. This new merged branch will have all the commits from each
+individual branch. 
