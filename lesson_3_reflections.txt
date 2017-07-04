@@ -9,3 +9,11 @@ automatically stay up-to-date with your remote repository?
 You may be working on something that is not ready or may have bugs and do not want
 to pull the changes until it is ready. If Git is doing it automatically you have no control
 or when the changes are pulled or pushed.
+
+Q3) Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+A branch occurs in a single repository. You create a new branch when you are trying
+to add a new feature or create a new version. A fork is a copy created exclusively
+within Git Hub. A clone copies a repository from Git Hub to your local computer or
+within your local computer in another folder. 
