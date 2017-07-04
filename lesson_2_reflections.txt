@@ -36,3 +36,8 @@ Why do we represent it in the diagram the way we do?
 It allows you to take changes made in separate branches and combine them into a single
 branch with all commits. This new merged branch will have all the commits from each
 individual branch. 
+
+Q7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The git merging allows you to track any conflicts in the code and address them as you 
+see fit. 
